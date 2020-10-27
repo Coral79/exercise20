@@ -1,0 +1,3 @@
+(480, 640, 3)
+docker run -it -v ~/Desktop/ex:/code/catkin_ws/src/exercise20/bag duckietown/exercise20:v2-amd64
+docker run -it -v ~/Desktop/ex:/home duckietown/exercise20:v2-amd64
